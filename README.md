@@ -1,0 +1,2 @@
+# -Shaw-71nc-Predicting_Heart_Disease_using_machine_learning
+this notebook looks into using various python based machine learning and data science libraries in an attempt to build a machine leanring model capable of predicting wether or not someone has heart disease on there medical attributes  we are going to take the fillowing approch:  1.problem defination 2.data 3.evaluation 4.feature 5.modelling 6.experimenting
